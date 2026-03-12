@@ -10,8 +10,8 @@ TouchDesigner `2025.31760` Commercial (Educational license should work as well)
 
 ## Settings
 
-Test Media settings exist in the /project1 > Settings parameters. 
-Edge Blend settings exist in the Edge Blend BASE > Settings panel. 
+- Test Media settings exist in the /project1 > Settings parameters. 
+- Edge Blend settings exist in the Edge Blend BASE > Settings panel. 
 
 ## Todo
 
